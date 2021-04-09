@@ -2,6 +2,7 @@
 
 Web app using Vue Cli, html and CSS.
 From an online drink's API, I made this web app to get through all the drinks and find the one that you like!
+Api call with Axios.
 
 ## Project setup
 ```
